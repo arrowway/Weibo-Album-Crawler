@@ -1,5 +1,13 @@
+# Vituralenv
 env/
 
-__pycache__/
+# Pycharm
+.idea/
 
+# Compile result
+__pycache__/
+*.pyc
+
+# Private files
 downloads/
+settings.py
